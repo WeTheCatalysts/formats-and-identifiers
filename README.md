@@ -1,1 +1,1 @@
-View this on Github Pages at: http://geodata.pt2.works
+View this on Github Pages at: https://wethecatalysts.github.io/standards-and-identifiers/
