@@ -1,8 +1,8 @@
 ---
-name: Identifier challenge
-about: Submit a new challenge for an identifier or standard
+name: Standard challenge
+about: Describe this issue template's purpose here.
 title: ''
-labels: identifier
+labels: standard
 assignees: ''
 
 ---
