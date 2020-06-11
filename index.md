@@ -13,4 +13,4 @@ Anyone can propose a new challenge for an area where a standard ideintifier or f
 
 [New format challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=standard-challenge.md)
 
-{% include README.md %}
+{% include_relative README.md %}
