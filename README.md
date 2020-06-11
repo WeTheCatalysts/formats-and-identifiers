@@ -2,13 +2,17 @@ During the COVID-19 crisis, data has been critical in understanding how to respo
 
 This website is an open catalogue of identifiers and data formats to help charities publish data in a way that is easier to use and link.
 
+
+##Recommended identifiers and formats
+
 **Identifiers** are standard codes for identifying things like organisations, categories or places. **Formats** are standard ways of publishing data about a thing such as a service provided by a charity, or a funding award.
 
-## Identifiers
+
+### Identifiers
 
 * [Identify the nations of the UK that data applies to](identifiers/uk-nations.md)
 
-## Formats
+### Formats
 
 * [Publish information about a service that is provided to the public and the geographical area it covers](formats/service-provision.md)
 
