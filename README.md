@@ -1,4 +1,4 @@
-An open catalogue of identifiers and data formats to help charities publish data in a way that is easier to use and link. Identifiers are standard codes for identifying things like organisations, categories or places. Formats are standard ways of publishing data about a thing such as a service provided by a charity, or a funding award.
+An open catalogue of identifiers and data formats to help charities publish data in a way that is easier to use and link. **Identifiers** are standard codes for identifying things like organisations, categories or places. **Formats** are standard ways of publishing data about a thing such as a service provided by a charity, or a funding award.
 
 ## Identifiers
 
@@ -15,3 +15,7 @@ Anyone can propose a new challenge for an area where a standard identifier or fo
 [New identifier challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=identifier-challenge.md)
 
 [New format challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=standard-challenge.md)
+
+Once a new challenge has been submitted it is reviewed by the team then opened up for suggestions for how it could be improved from across the charity sector. Then they are published online.
+
+[You can follow the progress of challenges here](https://github.com/WeTheCatalysts/standards-and-identifiers/projects/1).
