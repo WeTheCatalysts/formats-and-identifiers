@@ -1,18 +1,19 @@
 ## Format — 
 # Title
 
-## Why to use use this identifier
+## Why to use use this format
 
 
-## How to use this identifier
+## How to use this format
 
 
-## When to use this identifier
+## When to use this format
 
+## When to avoid this format
 
 ---
 
-### Status of this identifier
+### Status of this format
 
 This is a **proposal**, it was suggested as part of the Catalyst data infrastructure project
 

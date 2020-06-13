@@ -2,7 +2,7 @@
 
 # Publish the date or time that something happened
 
-## Why to use use this identifier
+## Why to use use this format
 
 There are lots of different ways of representing dates and times. This can lead to confusion, for example by 01/02/2020 might mean the first of January 2020 to some people, and the second of January to other people. ISO 8601 is an internationally accepted way to represent dates and times using numbers
 
@@ -20,13 +20,13 @@ And times can be written like this:
 
 14:43:30
 
-## When to use this identifier
+## When to use this format
 
 Use ISO 8601 any time that you need to publish data that contains date or time information. For example, a table of grant recipients that includes a column the grants where awarded should use ISO 8601 format.
 
 ---
 
-### Status of this identifier
+### Status of this format
 
 This is a **proposal**, it was suggested as part of the Catalyst data infrastructure project
 
