@@ -1,12 +1,12 @@
 ## Format — ISO 8601
 
-# Publish the date or time that something happened
+# Publish or exchange date or time data
 
 ## Why to use use this format
 
 There are lots of different ways of representing dates and times. This can lead to confusion, for example by 01/02/2020 might mean the first of January 2020 to some people, and the second of January to other people. ISO 8601 is an internationally accepted way to represent dates and times using numbers
 
-## How to use this identifier
+## How to use this format
 
 With ISO 8601, date and time values are ordered from the largest to smallest unit of time: year, month (or week), day, hour, minute, second. Like this:
 
