@@ -16,7 +16,7 @@ This website is an open catalogue of identifiers and data formats to help charit
 ### Formats
 
 * [Publish information about a service that is provided to the public and the geographical area it covers](formats/service-provision.md)
-* [Publish or exchange date or time data](formats/date-time.md)
+* [Publish or exchange date or time data](formats/date-and-time.md)
 
 ## Proposing an identifier or format
 
