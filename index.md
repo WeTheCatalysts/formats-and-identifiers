@@ -29,4 +29,4 @@ Once a new challenge has been submitted, it is reviewed by the team then opened 
 
 To help, we are developing a [set of principles](principles.md) for data standards in the charity sector.
 
-[You can follow the progress of challenges here](https://github.com/WeTheCatalysts/standards-and-identifiers/projects/1).
+**[You can follow the progress of challenges here](https://github.com/WeTheCatalysts/standards-and-identifiers/projects/1)**
