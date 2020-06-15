@@ -12,6 +12,7 @@ This website is an open catalogue of identifiers and data formats to help charit
 
 * [Identify the nations of the UK that data applies to](identifiers/uk-nations.md)
 * [Publish or exchange point location data](identifiers/point.md)
+* [Identify an organisation](identifiers/organisation.md)
 
 ### Formats
 
