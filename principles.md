@@ -12,3 +12,9 @@
 8. Have a strong bias towards URLs and the web
 9. Explain why to use something and who benefits
 10. Have an open process for adopting new standards
+
+
+## Simular documents
+
+* [ODI - Data & COVID - why standards matter](https://theodi.org/article/data-and-covid-19-why-standards-matter/)
+* [Cabinet Office OPen Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
