@@ -1,3 +1,4 @@
+### _PROPOSAL_
 ## Format — World Geodetic System 1984 (WGS84)
 
 # Publish or exchange point location data
