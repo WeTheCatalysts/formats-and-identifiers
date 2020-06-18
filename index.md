@@ -24,7 +24,7 @@ This website is an open catalogue of identifiers and data formats to help charit
 Anyone can propose a new challenge for an area where a standard identifier or format for publishing data could be useful.
 
 * [New identifier challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=identifier-challenge.md)
-* [New format challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=standard-challenge.md)
+* [New format challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=format-challenge.md)
 
 Once a new challenge has been submitted, it is reviewed by the team then opened up for suggestions for how it could be improved from across the charity sector. Then they are published online.
 
