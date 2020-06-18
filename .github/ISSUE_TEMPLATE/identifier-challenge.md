@@ -28,5 +28,4 @@ assignees: ''
 > The functional needs that the proposal must address.
 
 ## Prior art
-
 > What, if any, open standards exists that we should conside?
