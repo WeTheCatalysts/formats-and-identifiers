@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Create A Challenge
+# Identifier Challenge
 
 ## Title
 > A short title which describes the challenge. Avoid acronyms or jargon.
@@ -26,3 +26,7 @@ assignees: ''
 
 ## Functional Needs
 > The functional needs that the proposal must address.
+
+## Prior art
+
+> What, if any, open standards exists that we should conside?
