@@ -4,7 +4,7 @@
 
 1. Use established, open standards, avoid creating new ones
 2. Don’t try and model the world, allow for fuzzyness and caveats
-3. Monitor adoption, if standards are not taken up changes approach
+3. Monitor adoption, if standards are not taken up change approach
 4. Use formats that help get data to where users already are
 5. Be clear when a standard might be inappropriate to use
 6. Type of support, geography and audience should be clear
@@ -12,6 +12,8 @@
 8. Have a strong bias towards URLs and the web
 9. Explain why to use something and who benefits
 10. Have an open process for adopting new standards
+11. Understand how privacy can be influenced through linking data
+12. Adopt standards that enable connection, even if for subset of charities eg medical standards
 
 
 ## Simular documents
