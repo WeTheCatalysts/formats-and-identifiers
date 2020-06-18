@@ -1,4 +1,4 @@
-## Identifier — ISO 3166-2:GB
+## Identifier — ISO 3166-2:GB _PROPOSAL_
 # Identify the nations of the UK that data applies to
 
 ## Why to use use this identifier
