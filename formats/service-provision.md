@@ -1,5 +1,13 @@
-## Format — schema.org Service
-# Publish information about a service that is provided to the public and the geographical area it covers
+---
+layout: data-standard
+title: Publish information about a service that is provided to the public and the geographical area it covers
+type: Format
+status: Proposal
+standard: schema.org Service
+description: Use the schema.org Service schema to publish on your website information about services you provide
+---
+
+## Who this is for
 
 ## Why to use use this format
 

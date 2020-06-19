@@ -1,0 +1,20 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="description" content="{{ page.title }} - {{ site.name }}" />
+    <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />  
+  </head>
+  <body>
+    {% include header.html %}
+    <main class="main" role="main">
+      {% assign feedback_html = 'This is new &mdash; please <a href="' | append: site.feedbackUrl | append: '">say hello if you would like to contribute</a>' %}
+      {% include phase-banner.html phase="Alpha" html=feedback_html %}
+      {{ content }}
+    </main>
+  </body>
+</html>

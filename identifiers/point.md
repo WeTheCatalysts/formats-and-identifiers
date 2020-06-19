@@ -1,7 +1,13 @@
-### _PROPOSAL_
-## Format — World Geodetic System 1984 (WGS84)
+---
+layout: data-standard
+title: Publish or exchange point location data
+type: Identifier
+status: Proposal
+standard: org-id
+description: Use the World Geodetic System 1984 longitude and latitude to to publish or exchange point location data
+---
 
-# Publish or exchange point location data
+## Who this is for
 
 ## Why to use use this identifier
 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Data principles for standardised identifiers and formats in the charity sector
+---
 # Data principles for standardised identifiers and formats in the charity sector
 
 **Work in progress** — [please edit this document](https://github.com/WeTheCatalysts/standards-and-identifiers/blob/master/principles.md)

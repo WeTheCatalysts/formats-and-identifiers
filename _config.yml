@@ -1,15 +1,18 @@
 title: Data formats and identifiers for charities working during COVID-19
 description: test
+url: https://wethecatalysts.github.io/formats-and-identifiers/
+feedbackUrl: https://airtable.com/shrcSFfRzVT0bucct?prefill_Recipe+Page=https://wethecatalysts.github.io/formats-and-identifiers/
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: false
-  include:
-    - index.md
-    - principles.md
-    - formats/*.md
-    - identifiers/*.md
   exclude:
     - README.md
-
+navigation:
+  -
+    path: '/'
+    title: Home
+  -
+    path: '/new.html'
+    title: Propose a new challenge

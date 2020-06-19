@@ -1,7 +1,13 @@
-### _PROPOSAL_
-## Identifier — Organisation Identifier
+---
+layout: data-standard
+title: Identify an organisation
+type: Identifier
+status: Proposal
+standard: org-id
+description: Use the org-id system to identify companies, charities and other types of organisation in data you publish or exchange
+---
 
-# Identify an organisation
+## Who this is for
 
 ## Why to use use this identifier
 

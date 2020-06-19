@@ -1,6 +1,13 @@
-### _PROPOSAL_
-## Identifier — ISO 3166-2:GB
-# Identify the nations of the UK that data applies to
+---
+layout: data-standard
+title: Identify the nations of the UK that data applies to
+type: Identifier
+status: Proposal
+standard: ISO 3166-2:GB
+description: Use the ISO 3166-2:GB standard to identify the nations of the UK that data applies to
+---
+
+## Who this is for
 
 ## Why to use use this identifier
 

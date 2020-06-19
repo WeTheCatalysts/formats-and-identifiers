@@ -1,6 +1,13 @@
-## Format — ISO 8601
+---
+layout: data-standard
+title: Publish or exchange date or time data
+type: Format
+status: Proposal
+standard: ISO 8601
+description: Use the ISO 8601 data standard for date or time data to reduce confusion about different ways of writing dates and times
+---
 
-# Publish or exchange date or time data
+## Who this is for
 
 ## Why to use use this format
 
@@ -24,7 +31,6 @@ And times can be written like this:
 
 Use ISO 8601 any time that you need to publish data that contains date or time information. For example, a table of grant recipients that includes a column the grants where awarded should use ISO 8601 format.
 
----
 
 ### Status of this format
 
