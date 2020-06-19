@@ -3,7 +3,6 @@ node_modules
 npm-debug.log
 Gemfile.lock
 _site
-_assets
 package-lock.json
 docs/*
 ._*
