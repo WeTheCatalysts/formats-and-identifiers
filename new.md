@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Proposing an identifier or format
+title: Proposing a new challenge
 ---
-Anyone can propose a new challenge for an area where a standard identifier or format for publishing data could be useful.
+Anyone can propose a new challenge for an area where a standard identifier or format could be useful.
 
 * [New identifier challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=identifier-challenge.md)
 * [New format challenge](https://github.com/WeTheCatalysts/standards-and-identifiers/issues/new?assignees=&labels=identifier&template=format-challenge.md)

@@ -1,0 +1,58 @@
+---
+layout: base
+title: Data standards
+description: Common data formats for charities during COVID-19
+---
+<section class="proposition-intro vertical-spacing-bottom-1-5 vertical-spacing-top-1-5">
+  <div class="grid-container">
+    <div class="column-full-width">
+      <div class="inner bottom-border-2">
+        <h1 class="heading-extra-large vertical-spacing-bottom-0-5">{{page.title}}</h1>
+        <p class="body-copy-large vertical-spacing-bottom">
+          Common data formats for charities during COVID-19
+        </p>
+        <p class="body-copy-medium vertical-spacing-bottom">
+   By adopting common data formats and identifiers across the sector, charities can make their services easier to find, help government make better policy and funders ensure that money is being directed to the right place.
+
+  This website is a includes practical guides about using different types of data, and lets charities create challenges to agree which standards to use.
+       
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="proto-style-block typography vertical-spacing-top">
+  <div class="grid-container">
+    <div class="column-full-width">
+      <div class="inner bottom-border">
+        <h2>Adopted standards</h2>
+
+        <h3>Identifiers</h3>
+        <p>Identifiers are standard codes for identifying things like organisations, categories or places.</p>
+        <ul>
+          {% for page in site.pages %}
+            {% if page.type == "Identifier" %}
+              <li>
+                <a href="{{page.url}}">{{page.title}}</a>
+                <span class="label">{{page.status}}</span>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <h3>Formats</h3>
+
+        <p>Formats are standard ways of publishing data about a thing such as a service provided by a charity, or a funding award.</p>
+         <ul>
+          {% for page in site.pages %}
+            {% if page.type == "Format" %}
+              <li>
+                <a href="{{page.url}}">{{page.title}}</a>
+                <span class="label">{{page.status}}</span>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+    </div>
+    </div>
+  </div>
+</section>
