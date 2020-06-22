@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Data principles for standardised identifiers and formats in the charity sector
 ---
 # Data principles for standardised identifiers and formats in the charity sector

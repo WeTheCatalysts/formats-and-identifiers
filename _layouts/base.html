@@ -12,7 +12,7 @@
   <body>
     {% include header.html %}
     <main class="main" role="main">
-      {% assign feedback_html = 'This is new &mdash; please <a href="' | append: site.feedbackUrl | append: '">say hello if you would like to contribute</a>' %}
+    {% assign feedback_html = 'This is new &mdash; please <a href="' | append: site.feedbackUrl | append: '">say hello if you have any feedback</a> or view the <a href="https://github.com/WeTheCatalysts/formats-and-identifiers/projects/2">product backlog</a>' %}
       {% include phase-banner.html phase="Alpha" html=feedback_html %}
       {{ content }}
     </main>

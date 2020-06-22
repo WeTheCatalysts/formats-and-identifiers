@@ -46,7 +46,7 @@ description: Common data formats for charities during COVID-19
           {% for page in site.pages %}
             {% if page.type == "Format" %}
               <li>
-                <a href="formats/{{page.url}}">{{page.title}}</a>
+                <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
                 <span class="label">{{page.status}}</span>
               </li>
             {% endif %}
