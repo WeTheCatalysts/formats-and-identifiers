@@ -1,7 +1,7 @@
 title: 'Data standards'
 description: test
 url: https://wethecatalysts.github.io/formats-and-identifiers/
-baseurl: /formats-and-identifiers
+baseurl: /formats-and-identifiers/
 feedbackUrl: https://airtable.com/shrcSFfRzVT0bucct?prefill_Recipe+Page=https://wethecatalysts.github.io/formats-and-identifiers/
 plugins:
   - jekyll-relative-links
@@ -12,8 +12,8 @@ relative_links:
     - README.md
 navigation:
   -
-    path: '/'
+    path: ''
     title: Home
   -
-    path: '/new.html'
+    path: 'new.html'
     title: Propose a new challenge
