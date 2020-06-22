@@ -4,7 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/app.css">
+    {% if site.baseurl == "" %}
+      <link rel="stylesheet" href="/assets/css/app.css">
+    {% else %}
+      <link rel="stylesheet" href="{{site.baseurl}}/assets/css/app.css">
+     {% endif %}
     <title>{{ page.title }} - {{ site.title }}</title>
     <meta name="description" content="{{ page.title }} - {{ site.title }}" />
     <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />  
