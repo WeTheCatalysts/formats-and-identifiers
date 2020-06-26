@@ -9,6 +9,9 @@ description: Use the ISO 3166-2:GB standard to identify the nations of the UK th
 
 ## Who this is for
 
+* **Data analysts** publishing data that relates to a constituent part of the UK
+
+
 ## Why to use use this identifier
 
 This identifier enables anyone creating datasets to accurately and consistently link data to a constituent part of the United Kingdom. It makes it easier for anyone using the data to join it with other datasets and and map it to a known geographical extent.
@@ -29,7 +32,9 @@ You should use 2-letter ISO 3166-1 code (GB for the United Kingdom) along the ex
 
 This identifier can be used at to to identify that a row in a dataset relates to a specific area, or at the level of the overall dataset.
 
-**Suggested field name:** iso3166-2
+###Suggested field name:
+
+iso3166-2
 
 
 ## When to use this identifier
@@ -38,13 +43,9 @@ When data relates to a specific constituent part of the UK. For example, data pu
 
 ---
 
-### Status of this identifier
-
-This is a **proposal**, it was suggested as part of the Catalyst data infrastructure project
-
 ### Examples in the wild
 
-* There are no known examples. If you know of any, please suggest one [here](#)
+If you know of any, please suggest one [here](https://github.com/WeTheCatalysts/formats-and-identifiers/issues/5)
 
 ### References and links
 

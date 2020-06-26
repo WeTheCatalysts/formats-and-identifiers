@@ -4,27 +4,36 @@ title: Publish or exchange point location data
 type: Identifier
 status: Proposal
 standard: org-id
-description: Use the World Geodetic System 1984 longitude and latitude to to publish or exchange point location data
+description: Use the World Geodetic System 1984 longitude and latitude to store, publish or exchange point location data
 ---
 
 ## Who this is for
 
-## Why to use use this identifier
-
-## How to use this identifier
-
+* **Data analysts or GIS officers** publishing data containing location information
+* **Database administrators** storing geographical information
 
 ## When to use this identifier
 
+When data relates to a specific geographical location. For example, publishing the locations of food banks so they can be placed on a map.
+
+## Why use this identifier
+
+WGS84 covers the whole globe and is widely supported by commercial and open source software.
+
+## How to use this identifier
+
+When publishing tabular data latitude and longitude should be decimal numbers in separate data fields. When storing in a database, you can also choose to store them as a geographic data-type. There are intellectual property issues with using other systems.
+
+
+### Suggested field names:
+
+```lat``` and ```lon```, or latlon
+
 ---
-
-### Status of this format
-
-This is a **proposal**, it was suggested as part of the Catalyst data infrastructure project
 
 ### Examples in the wild
 
-* There are no known examples. If you know of any, please suggest one [here](#)
+* If you know of any, please suggest one [here](https://github.com/WeTheCatalysts/formats-and-identifiers/issues/6)
 
 ### References and links
 

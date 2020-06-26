@@ -9,9 +9,15 @@ description: Use the org-id system to identify companies, charities and other ty
 
 ## Who this is for
 
-## Why to use use this identifier
+* **Data analysts** publishing data or statistics about organisations
 
-This identifier allows anyone create a dataset with data about an organisation to unambiguously and consistently identify the organisation. It makes it easier for anyone using the data to identify where multiple records apply to the same organisation, and to join it to other datasets containing information about those organisations.
+## When to use this identifier
+
+When data relates to a specific organisation. For example, a list of organisations that are members of a network.
+
+## Why use this identifier
+
+The identifier allows anyone create a dataset with data about an organisation to unambiguously and consistently identify the organisation. It also makes it easier for anyone using the data to identify where multiple records apply to the same organisation, and to join it to other datasets containing information about those organisations.
 
 ## How to use this identifier
 
@@ -63,17 +69,13 @@ Note that some organisations may be identified differently through two different
 
 Uses of data containing this identifier should expect that they may need to "normalise" the organisation identifiers. For example, they may need to check each company number to see if it has an associated charity number.
 
-**Suggested field name:** org_id
+### Suggested field name:
 
-## When to use this identifier
+```org_id```
 
-When data relates to a specific organisation. For example, a list of organisations that are members of a network.
 
 ---
 
-### Status of this identifier
-
-This is a **proposal**, it was suggested as part of the Catalyst data infrastructure project
 
 ### Examples in the wild
 
