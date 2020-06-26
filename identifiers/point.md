@@ -18,11 +18,11 @@ When data relates to a specific geographical location. For example, publishing t
 
 ## Why use this identifier
 
-WGS84 covers the whole globe and is widely supported by commercial and open source software.
+WGS84 covers the whole globe and is widely supported by commercial and open source software. There are intellectual property issues with using other systems.
 
 ## How to use this identifier
 
-When publishing tabular data latitude and longitude should be decimal numbers in separate data fields. When storing in a database, you can also choose to store them as a geographic data-type. There are intellectual property issues with using other systems.
+When publishing tabular data latitude and longitude should be decimal numbers in separate data fields. When storing in a database, you can also choose to store them as a geographic data-type.
 
 
 ### Suggested field names:

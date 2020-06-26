@@ -8,7 +8,7 @@ title: Data principles for standardised identifiers and formats in the charity s
 
 1. Use established, open standards, avoid creating new ones
 2. Don’t try and model the world, allow for fuzzyness and caveats
-3. Monitor adoption, if standards are not taken up changes approach
+3. Monitor adoption, if standards are not taken up, change approach
 4. Use formats that help get data to where users already are
 5. Be clear when a standard might be inappropriate to use
 6. Type of support, geography and audience should be clear
@@ -18,7 +18,7 @@ title: Data principles for standardised identifiers and formats in the charity s
 10. Have an open process for adopting new standards
 
 
-## Simular documents
+## Similar documents
 
 * [ODI - Data & COVID - why standards matter](https://theodi.org/article/data-and-covid-19-why-standards-matter/)
 * [Cabinet Office OPen Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
