@@ -2,7 +2,6 @@
 layout: page
 title: Data principles for standardised identifiers and formats in the charity sector
 ---
-# Data principles for standardised identifiers and formats in the charity sector
 
 **Work in progress** — [please edit this document](https://github.com/WeTheCatalysts/standards-and-identifiers/blob/master/principles.md)
 
@@ -21,4 +20,4 @@ title: Data principles for standardised identifiers and formats in the charity s
 ## Similar documents
 
 * [ODI - Data & COVID - why standards matter](https://theodi.org/article/data-and-covid-19-why-standards-matter/)
-* [Cabinet Office OPen Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
+* [Cabinet Office Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)
